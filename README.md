@@ -15,7 +15,7 @@
 
 ## 🌸 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 <p align="center" style="color:#d3a9d8;">
-  <img src="images3.gif" alt="About" width="180" style="border-radius:8px; margin:5px; display:inline-block;"/>
+  <img src="images3.gif" alt="About" width="240" style="border-radius:8px; margin:5px; display:inline-block;"/>
   <br>
   - College student exploring the world of code & design ✨ <br>
   - Zero professional experience, 100% curiosity 💕 <br>
@@ -26,7 +26,7 @@
 
 ## 🌺 𝐒𝐤𝐢𝐥𝐥𝐬
 <p align="center">
-  <img src="image4.jpg" alt="Skills" width="180" style="border-radius:8px; margin:5px; display:inline-block;"/>
+  <img src="image4.jpg" alt="Skills" width="240" style="border-radius:8px; margin:5px; display:inline-block;"/>
   <br><br>
   <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-FFC0CB?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -41,14 +41,16 @@
 
 ## 🎀 𝐅𝐮𝐧 & 𝐇𝐨𝐛𝐛𝐢𝐞𝐬
 <p align="center" style="color:#d3a9d8;">
-  <img src="image2.jpg" alt="Fun" width="180" style="border-radius:8px; margin:5px; display:inline-block;"/>
+  <img src="image2.jpg" alt="Fun" width="240" style="border-radius:8px; margin:5px; display:inline-block;"/>
   <br>
   🎮 Gaming all day: Dota 2, osu! <br>
   🌸 Making setups for coding & streaming
 </p>
 
 <pre align="center" style="color:#d3c2d3;">
-‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧
+‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧
+‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧
+‧₊˚ ✩°｡⋆♡ ⋆˙⟡♡ ⋆˙⟡♡⋆｡°✩˚₊‧
 </pre>
 
 ---
@@ -56,16 +58,16 @@
 ## 🩷 𝐒𝐭𝐚𝐭𝐬
 <h4 align="center" style="color:#f8c8dc;">GitHub Stats</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiredhumanwannadead&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Vika's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tiredhumanwannadead&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Vika's GitHub Stats" width="350"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiredhumanwannadead&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiredhumanwannadead&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="350"/>
 </p>
 
 ---
 
 ## 📬 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞
 <p align="center">
-  <img src="images1.jpg" alt="Contact" width="180" style="border-radius:8px; margin:5px; display:inline-block;"/>
+  <img src="images1.jpg" alt="Contact" width="240" style="border-radius:8px; margin:5px; display:inline-block;"/>
   <br><br>
   <a href="https://www.instagram.com/xenorupt" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:conseragen@gmail.com"><img src="https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
