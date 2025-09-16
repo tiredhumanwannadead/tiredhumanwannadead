@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/main-photo.png" alt="Vika" width="200" style="border-radius:50%; border:4px solid #f8c8dc"/>
+  <img src="https://your-image-link.com/main-photo.jpg" alt="Vika" width="200" style="border-radius:50%; border:4px solid #f8c8dc"/>
 </p>
 
 <h1 align="center" style="color:#f8c8dc;"> 闇に美を見つける|🌸 I'm Vika</h1>
