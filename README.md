@@ -2,7 +2,7 @@
   <img src="https://your-image-link.com/main-photo.png" alt="Vika" width="200" style="border-radius:50%; border:4px solid #f8c8dc"/>
 </p>
 
-<h1 align="center" style="color:#f8c8dc;">Konnichiwa 🌸 I'm Vika</h1>
+<h1 align="center" style="color:#f8c8dc;"> 闇に美を見つける|🌸 I'm Vika</h1>
 <h3 align="center" style="color:#d3c2d3;">18 | College Student | Aspiring Web Designer | Coder in progress</h3>
 
 <p align="center" style="color:#a9a9a9;">
@@ -55,20 +55,14 @@
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="https://www.instagram.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-FFC0CB?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D8BFD8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/xenorupt" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:conseragen@gmail.com"><img src="https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/m0ntig3n" target="_blank"><img src="https://img.shields.io/badge/Telegram-FFC0CB?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.com/users/aethervainz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌸 Aesthetic Japanese Quotes
-<p align="center" style="color:#d3a9d8;">
-> "かわいいものが好き" — I like cute things <br>
-> "夢の中で生きる" — Living in a dream <br>
-> "闇に美を見つける" — Finding beauty in darkness
-</p>
 
 <p align="center">
   <img src="https://your-image-link.com/pastel-gothic-border2.png" alt="Decoration" width="600"/>
