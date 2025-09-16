@@ -8,7 +8,6 @@
 <p align="center" style="color:#a9a9a9;">
 💻 Learning: Python | C# | C++ | Web Design <br>
 🎮 Gaming: Dota 2 | osu! <br>
-🎀 Aesthetic: Pastel pink & grey + Japanese Gothic vibes
 </p>
 
 ---
@@ -17,8 +16,7 @@
 <p align="center" style="color:#d3a9d8;">
 - College student exploring the world of code & design ✨ <br>
 - Zero professional experience, 100% curiosity 💕 <br>
-- Love cute and dark aesthetics 🖤 <br>
-- Dream: create my own kawaii-gothic digital universe 🌙
+- Love cute cats 🖤 <br>
 </p>
 
 ---
@@ -39,8 +37,7 @@
 ## 🎀 Fun & Hobbies
 <p align="center" style="color:#d3a9d8;">
 🎮 Gaming all day: Dota 2, osu! <br>
-🌸 Collecting kawaii wallpapers and Japanese Gothic vibes <br>
-✨ Making pastel aesthetic setups for coding & streaming
+🌸 Making  setups for coding & streaming
 </p>
 
 ---
